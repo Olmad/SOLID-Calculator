@@ -13,7 +13,7 @@ namespace Calculator_SOLID
 
         public string TesterWork(string Text)
         {
-            if (Text == ",,,,") { TestActived = true; }
+            if (Text == ",,,,") { TestActived = !TestActived; }
 
             
                 string text = "";
