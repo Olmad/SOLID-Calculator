@@ -1,0 +1,21 @@
+C:\Users\admin\source\repos\Calculator SOLID\Calculator SOLID\bin\Debug\net6.0-windows\Calculator SOLID.exe
+C:\Users\admin\source\repos\Calculator SOLID\Calculator SOLID\bin\Debug\net6.0-windows\Calculator SOLID.deps.json
+C:\Users\admin\source\repos\Calculator SOLID\Calculator SOLID\bin\Debug\net6.0-windows\Calculator SOLID.runtimeconfig.json
+C:\Users\admin\source\repos\Calculator SOLID\Calculator SOLID\bin\Debug\net6.0-windows\Calculator SOLID.dll
+C:\Users\admin\source\repos\Calculator SOLID\Calculator SOLID\bin\Debug\net6.0-windows\Calculator SOLID.pdb
+C:\Users\admin\source\repos\Calculator SOLID\Calculator SOLID\obj\Debug\net6.0-windows\Calculator SOLID.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Calculator SOLID\Calculator SOLID\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\admin\source\repos\Calculator SOLID\Calculator SOLID\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\admin\source\repos\Calculator SOLID\Calculator SOLID\obj\Debug\net6.0-windows\Calculator SOLID_MarkupCompile.cache
+C:\Users\admin\source\repos\Calculator SOLID\Calculator SOLID\obj\Debug\net6.0-windows\Calculator SOLID_MarkupCompile.lref
+C:\Users\admin\source\repos\Calculator SOLID\Calculator SOLID\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\admin\source\repos\Calculator SOLID\Calculator SOLID\obj\Debug\net6.0-windows\Calculator SOLID.g.resources
+C:\Users\admin\source\repos\Calculator SOLID\Calculator SOLID\obj\Debug\net6.0-windows\Calculator SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Calculator SOLID\Calculator SOLID\obj\Debug\net6.0-windows\Calculator SOLID.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Calculator SOLID\Calculator SOLID\obj\Debug\net6.0-windows\Calculator SOLID.AssemblyInfo.cs
+C:\Users\admin\source\repos\Calculator SOLID\Calculator SOLID\obj\Debug\net6.0-windows\Calculator SOLID.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Calculator SOLID\Calculator SOLID\obj\Debug\net6.0-windows\Calculator SOLID.dll
+C:\Users\admin\source\repos\Calculator SOLID\Calculator SOLID\obj\Debug\net6.0-windows\refint\Calculator SOLID.dll
+C:\Users\admin\source\repos\Calculator SOLID\Calculator SOLID\obj\Debug\net6.0-windows\Calculator SOLID.pdb
+C:\Users\admin\source\repos\Calculator SOLID\Calculator SOLID\obj\Debug\net6.0-windows\Calculator SOLID.genruntimeconfig.cache
+C:\Users\admin\source\repos\Calculator SOLID\Calculator SOLID\obj\Debug\net6.0-windows\ref\Calculator SOLID.dll
